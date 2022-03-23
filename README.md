@@ -1,4 +1,6 @@
-# Cloud Functions 2세대 - Kotlin 함수 배포 예제
+# Cloud Functions 2세대 - Kotlin 함수 배포 예제  
+
+**Google Cloud Functions 2세대**에서 Kotlin 프로젝트의 기본 트리거 함수를 배포하는 방법을 담은 예제 소스 코드 입니다. 
 
 ---
 
